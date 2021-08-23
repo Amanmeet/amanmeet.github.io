@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hi, I am Amanmeet Garg. Welcome to my website. I gather my thoughts, learnings and knowledge here."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-### Hi, I am Amanmeet Garg. Welcome to my website. I gather my thoughts, learnings and knowledge here. 
+<!-- ### Hi, I am Amanmeet Garg. Welcome to my website. I gather my thoughts, learnings and knowledge here.  -->
 At the moment, I work in Computer vision and image processing for image and video data at Gracenote @Nielsen, Emeryville, California, USA. I build Machine learning and deep learning algorithms for video segmentation, image and video compression, graph neural networks in the domain of TV-Automated Content Recognition and Video-metadata generation.
 
 [LINKEDIN](https://www.linkedin.com/in/amanmeet) / [TWITTER](https://twitter.com/scorpionmania) /
