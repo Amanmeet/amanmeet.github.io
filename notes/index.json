@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Attention Is All You Need",
+        "file": "attention-is-all-you-need.md",
+        "date": "2025-12-15",
+        "tags": ["transformers", "NLP"]
+    },
+    {
+        "title": "Deep Residual Learning for Image Recognition",
+        "file": "deep-residual-learning.md",
+        "date": "2025-11-20",
+        "tags": ["vision", "architectures"]
+    },
+    {
+        "title": "Generative Adversarial Networks",
+        "file": "generative-adversarial-networks.md",
+        "date": "2025-10-08",
+        "tags": ["generative models", "GANs"]
+    },
+    {
+        "title": "Week 4: Mixture of Experts and the Omni-Modal Frontier",
+        "file": "week4_moe_omni.md",
+        "date": "2025-10-08",
+        "tags": ["MoE", "multimodal"]
+    }
+]

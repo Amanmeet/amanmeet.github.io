@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    <title>Amanmeet Garg - Academic Profile</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" crossorigin="anonymous">
+    <script>
+        // Cache-bust local CSS/JS on every load
+        (function() {
+            const t = Date.now();
+            document.write('<link rel="stylesheet" href="css/style.css?t=' + t + '">');
+            window.__assetVersion = t;
+        })();
+    </script>
+</head>
+<body>
+    <header class="site-header">
+        <div class="header-inner">
+            <a href="#" class="site-title">Amanmeet Garg</a>
+            <nav class="site-nav">
+                <button class="nav-tab active" data-tab="about">About Me</button>
+                <button class="nav-tab" data-tab="notes">Reading Notes</button>
+            </nav>
+        </div>
+    </header>
+
+    <main class="site-main">
+        <!-- About Me Tab -->
+        <section id="tab-about" class="tab-content active">
+            <div class="about-container">
+                <div id="about-content" class="markdown-body">
+                    <p class="loading">Loading...</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Reading Notes Tab -->
+        <section id="tab-notes" class="tab-content">
+            <div class="notes-layout">
+                <div class="notes-list-pane">
+                    <h2 class="notes-heading">Reading Notes</h2>
+                    <p class="notes-subtitle">Select a note to read</p>
+                    <div id="notes-list" class="notes-list">
+                        <p class="loading">Loading...</p>
+                    </div>
+                </div>
+                <div class="notes-reader-pane" id="reader-pane">
+                    <div class="reader-header">
+                        <button class="reader-close" id="reader-close" title="Close">&times;</button>
+                    </div>
+                    <div id="reader-content" class="markdown-body">
+                        <p class="reader-placeholder">Select a reading note from the list to view it here.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="site-footer">
+        <p>Built with curiosity and markdown.</p>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js" crossorigin="anonymous"></script>
+    <script>
+        document.write('<script src="js/app.js?t=' + window.__assetVersion + '"><\/script>');
+    </script>
+</body>
+</html>
