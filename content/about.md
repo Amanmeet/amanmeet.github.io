@@ -34,6 +34,17 @@ Second, *How can we build small multimodal foundation models with extreme task s
 
 ## Publications
 
+1. **One Identity, Many Roles: Multimodal Entity Coreference for Enhanced Video Situation Recognition**
+   Darur, Balaji; *Garg, Amanmeet*; Tapaswi, Makarand.
+   arXiv:2604.23173, 2026. [PDF](https://arxiv.org/pdf/2604.23173.pdf) | [WEBPAGE](https://arxiv.org/abs/2604.23173)
+
+2. **Perceptio: Perception Enhanced Vision Language Models via Spatial Token Generation**
+   Li, Yuchen; *Garg, Amanmeet*; Chaudhuri, Shalini; Zhao, Rui; Kessler, Garin.
+   arXiv:2603.18795, 2026. [PDF](https://arxiv.org/pdf/2603.18795.pdf) | [WEBPAGE](https://arxiv.org/abs/2603.18795)
+
+3. **CounterVid: Counterfactual Video Generation for Mitigating Action and Temporal Hallucinations in Video-Language Models**
+   Poppi, Tobia; Uzkent, Burak; *Garg, Amanmeet*; Porto, Lucas; Kessler, Garin; Yang, Yezhou; Cornia, Marcella; Baraldi, Lorenzo; Cucchiara, Rita; Schiffers, Florian.
+   arXiv:2601.04778, 2026. [PDF](https://arxiv.org/pdf/2601.04778.pdf) | [WEBPAGE](https://arxiv.org/abs/2601.04778)
 
 
 <!-- 1. **Sparse Attention is All You Need (Sometimes)**
